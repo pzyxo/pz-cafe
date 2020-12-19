@@ -123,6 +123,10 @@ body {
     font-size: 50px;
 }
 
+p {
+    color: white;
+}
+
 @media (min-width: 1280px){
     /*.navbar {
         margin-top: 10px;
@@ -222,8 +226,8 @@ body {
       
       .zoom-effect {
         position: relative;
-        width: 325px;
-        height: 320px;
+        width: 315px;
+        height: 315px;
         margin: 0 auto;
         overflow: hidden;
       }
