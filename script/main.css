@@ -126,6 +126,10 @@ p {
     color: white;
 }
 
+.dish-view{
+    padding-top: 5%;
+}
+
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: black !important;
     background-color: white;
@@ -221,7 +225,9 @@ p {
 
     /* MENU */
     
-
+    .dish-view{
+        padding-top: 2%;
+    }
 
     .wrapper {
         margin: 0 auto;
