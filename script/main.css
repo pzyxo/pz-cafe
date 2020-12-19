@@ -120,7 +120,7 @@ body {
 .booking {
     color: white;
     text-align: center;
-    font-size: 200px;
+    font-size: 50px;
 }
 
 @media (min-width: 1280px){
@@ -238,6 +238,14 @@ body {
       .zoom-effect:hover .kotak img {
         -webkit-transform: scale(1.08);
         transform: scale(1.08);
+      }
+
+      /* about */
+
+      .booking {
+            color: white;
+            text-align: center;
+            font-size: 200px;
       }
 
     
