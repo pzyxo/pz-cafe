@@ -136,6 +136,9 @@ p {
     
 }
 
+.infoo {
+    padding: 35% 15%;
+}
 
 @media (min-width: 1280px){
     /*.navbar {
