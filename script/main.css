@@ -16,7 +16,7 @@ font-family: 'Yellowtail', cursive;
 
 
 body {
-    padding: 0;
+    padding: 0 5%;
     margin: 0;
 }
 
@@ -80,8 +80,8 @@ body {
 }
 
 .desc {
-    font-size: 30px;
-    color: white;
+    font-size: 25px;
+    color: grey;
     text-align: center;
     padding-top: 10%;
     padding-bottom: 10%;
@@ -203,8 +203,8 @@ p {
         font-size: 50px;
         padding-top: 10%;
         padding-bottom: 10%;
-        text-align: left;
     }
+    
     .on {
         padding-bottom: 0;
         margin-bottom: 0;
