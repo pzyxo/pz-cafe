@@ -150,6 +150,10 @@ p {
     margin-top: 35%;
 }
 
+.content-about {
+    margin-top: 15%;
+}
+
 @media (min-width: 1280px){
     /*.navbar {
         margin-top: 10px;
@@ -287,6 +291,7 @@ p {
 
       .content-about {
         padding:5% 0; padding-right: 15%;
+        margin-top: 0;
       }
 
     
