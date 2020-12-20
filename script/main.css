@@ -140,6 +140,12 @@ p {
     padding: 45% 15%;
 }
 
+.bout-cafe {
+    font-size: 18px;
+    text-align: left;
+    color: white;
+}
+
 @media (min-width: 1280px){
     /*.navbar {
         margin-top: 10px;
@@ -267,8 +273,8 @@ p {
 
       .booking {
             color: white;
-            text-align: center;
-            font-size: 200px;
+            text-align: left;
+            font-size: 50px;
       }
 
       .infoo {
