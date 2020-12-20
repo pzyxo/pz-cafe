@@ -119,7 +119,7 @@ body {
 .booking {
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 20px;
 }
 
 p {
@@ -144,6 +144,10 @@ p {
     font-size: 18px;
     text-align: left;
     color: white;
+}
+
+.ikon {
+    margin-top: 35%;
 }
 
 @media (min-width: 1280px){
