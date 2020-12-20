@@ -18,12 +18,22 @@
         color: white;
       }
 
-      @media (min-width: 1280px){
+      .dropdown-divider {
+        display: none;
+      }
+
+      @media (max-width: 576px) {
         .dropdown-divider {
-          display: none;
+          display: block;
         }
       }
-    </style>
+
+      @media (min-width: 768px) {
+        .infoo {
+          padding: 5% 15%;
+        }
+      }
+     </style>
 </head>
 <body class="about">
     <nav class="navbar sticky-top navbar-expand-lg">
